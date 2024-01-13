@@ -20,4 +20,6 @@ The results of the project are documented in the Jupyter notebook. In summary, w
 
 
 Link to the dataset: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
+
 Link to the model: https://drive.google.com/file/d/11wVgiYdZHIgjVzS9DH_yAhUJeBCatPNF/view?usp=drive_link
